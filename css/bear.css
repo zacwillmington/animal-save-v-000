@@ -14,5 +14,8 @@ him to stay 800px from the left side of the screen before he reaches the edge.*/
 
 @media only screem and (max-width: 1000px){
 
-    
+    #bear {
+        position: fixed;
+        left: 800px;
+    }
 }

@@ -15,6 +15,6 @@ size of 406px to 1170px keeping him safe from their affection.
 @media only screen and (min-width: 406px) and (max-width: 1170px) {
         #monkey {
             position: absolute;
-            top: 0px;
+            top: -20px;
         }
 }
